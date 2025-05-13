@@ -1,0 +1,36 @@
+# Byte-compiled Python files
+*.py[cod]
+
+# Log files
+*.log
+
+# Database files
+*.db
+
+# Virtual environment files
+.venv/
+env/
+venv/
+virtualenv/
+
+# Poetry files
+poetry.lock
+
+# IDE files
+.vscode/
+.idea/
+pycharm/
+
+# Miscellaneous
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+.pytest_cache
+/.pytest_cache
